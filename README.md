@@ -27,7 +27,7 @@ Welcome to the Career Counseling Website, a platform designed to guide individua
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/hirock0/career-counselling.git
+   git clone https://github.com/hirock0/Career-Counseling.git
    cd career-counselling
 
    ```
